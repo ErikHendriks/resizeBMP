@@ -1,6 +1,6 @@
 /**
  * resize .bmp files.
- */
+ **/
 
 #include <stdio.h>
 #include <stdlib.h>
