@@ -1,5 +1,5 @@
 /**
- * cs50 rezise.
+ * resize .bmp files.
  */
 
 #include <stdio.h>
